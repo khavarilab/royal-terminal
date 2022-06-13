@@ -25,7 +25,7 @@ Install Royal TSX, open the app, from the menu bar (macOS):
 2. Restart app, then File > Open Document > Connections.rtsz.
 3. You can now view Connections and Credentials in the left-side bar.  
   
-<img src="https://github.com/khavarilab/one-terminal/blob/main/resources/Image3.png" width="400">  
+<img src="https://github.com/khavarilab/one-terminal/blob/main/resources/Image3.png" width="300">  
   
 You can delete connections that are not required.  
 Enter login details in the Credentials section.  
