@@ -16,13 +16,14 @@ Coolest features: vertical tabs to work simultaneously across servers and an Ove
 <img src="https://github.com/khavarilab/one-terminal/blob/main/resources/Image1.png">  
 
 ### Download
-Download the macOS version from [here](https://www.royalapps.com/ts/mac/download).  
-Download connections file from [here](https://github.com/khavarilab/royal-terminal/blob/main/resources/StanfordConnections.rtsz).
+1. Download the macOS version from [here](https://www.royalapps.com/ts/mac/download).  
+2. Find the connections file from [here](https://raw.githubusercontent.com/khavarilab/royal-terminal/main/resources/StanfordConnections.rtsz).
+3. Save the text web page as `StanfordConnections.rtsz` to your Documents folder.
 
 ### Installation
 Install Royal TSX, open the app, from the menu bar (macOS): 
 1. Install Plugins: Royal TSX > Plugins > install Terminal and File Transfer. Any other you may want. 
-2. Restart app, then File > Open Document > Connections.rtsz.
+2. Restart app, then File > Open Document > StanfordConnections.rtsz.
 3. You can now view Connections and Credentials in the left-side bar.  
   
 <img src="https://github.com/khavarilab/one-terminal/blob/main/resources/Image3.png" width="300">  
