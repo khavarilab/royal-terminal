@@ -1,4 +1,4 @@
-# royal-terminal 🖥
+# Royal Terminal 🖥
 #### One app to bring all your connections and bind them 🪢.
 
 
